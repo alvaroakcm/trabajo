@@ -6,7 +6,7 @@ spring:
   datasource:
     driver-class-name: oracle.jdbc.OracleDriver
     url: jdbc:oracle:thin:@localhost:1521/xe  
-    username: bdfepi
+    username: root
     password: 12345678
   jpa:
     hibernate:
